@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    margin: 30px;
+    background-color: #f9f9f9;
+}
+h1 {
+    color: #333;
+}
+textarea {
+    width: 100%;
+    font-size: 16px;
+    padding: 10px;
+    resize: none;
+}
+.options {
+    margin: 15px 0;
+}
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#result {
+    background-color: #fff;
+    padding: 15px;
+    min-height: 50px;
+    border: 1px solid #ccc;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
